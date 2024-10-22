@@ -11,12 +11,6 @@ C: 70 - 79
 D: 60 - 69
 F: below 60
 
-Input:
-An integer representing the student's score (between 0 and 100).
-
-Output:
-A character representing the student's grade (A, B, C, D, F).
-
 */
 
 #include <iostream>

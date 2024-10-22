@@ -5,12 +5,6 @@ Lvl 1: Classic problem that involves using a for loop to print a pattern:
 Problem: Number Pyramid
 Write a C++ program that prints a pyramid of numbers. The height of the pyramid is determined by the user’s input.
 
-Input:
-An integer n, representing the number of rows for the pyramid.
-
-Output:
-A pyramid of numbers where each row contains increasing numbers starting from 1, with the first row containing 1 number, the second row containing 2 numbers, and so on.
-
 */
 
 #include <iostream>

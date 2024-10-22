@@ -3,18 +3,8 @@
 Lvl 2: Problem involving multidimensional arrays (2D arrays) to further practice your skills:
 
 Problem: Matrix Transpose
-Description: Write a C++ program that reads a matrix and computes its transpose. The transpose of a matrix is obtained by swapping rows with columns.
-
-Input:
-
-The first line contains two integers, rows and cols, representing the number of rows and columns of the matrix.
-The next rows lines each contain cols integers, representing the elements of the matrix.
-
-Output:
-The transposed matrix, with dimensions cols x rows.
-Constraints:
-The input values should be integers.
-The matrix dimensions should be greater than zero.
+Description: Write a C++ program that reads a matrix and computes its transpose. The transpose of a matrix 
+is obtained by swapping rows with columns.
 
 */
 

@@ -6,12 +6,6 @@ Problem: Sum of Positive Numbers
 Write a C++ program that repeatedly takes integers as input and calculates the sum of all positive numbers entered by the user. 
 The program should stop when the user enters a negative number, and then output the total sum of the positive numbers.
 
-Input:
-A sequence of integers, one at a time. The sequence ends when a negative number is entered.
-
-Output:
-The sum of all positive numbers entered before the negative number.
-
 */
 
 
